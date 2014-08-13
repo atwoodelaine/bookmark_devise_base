@@ -28,6 +28,13 @@ gem 'spring',        group: :development
 
 #Devise for authentication 
 gem 'devise'
+
+#Responsive gem 
+gem 'foundation-rails'
+
+#Pretty Forms
+gem 'simple_form'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
